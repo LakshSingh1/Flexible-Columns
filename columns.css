@@ -1,0 +1,54 @@
+.row-1{
+    display: flex; 
+    justify-content: space-between;
+}
+
+.col{
+    height: 25px;
+    width: 20%;
+    color: white;
+    background-color: rgb(101, 163, 171);
+    justify-content: space-evenly;
+}
+
+.row-2{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.col-2{
+    height: 25px;
+    width: 35%;
+    color: white;
+    background-color: rgb(101, 163, 171);
+}
+
+.col-5{
+    height: 25px;
+    width: 30%;
+    color: white;
+    background-color: rgb(101, 163, 171);
+    margin-right: 35%
+}
+
+.col-4{
+    height: 25px;
+    width: 30%;
+    color: white;
+    background-color: rgb(101, 163, 171);
+}
+
+.row-3{
+    margin-top: 10px;
+    display: flex;
+    justify-content:space-between ;
+}
+
+.col-3{
+    height: 25px;
+    width: 35%;
+    color: white;
+    background-color: rgb(101, 163, 171);
+    margin-right: 25%;
+}
